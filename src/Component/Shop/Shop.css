@@ -1,0 +1,14 @@
+.shop{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.cart-collection{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 100px;
+    gap: 45px;
+}
+.cart-calc{
+    padding: 20px;
+    background-color: antiquewhite;
+}
